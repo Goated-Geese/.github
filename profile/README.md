@@ -4,7 +4,7 @@
 ![Banner](assets/banner.png)
 -->
 
-A chill gaming Discord—community game servers, casual game nights, and good vibes over sweaty try-hard energy.
+A chill gaming Discord community. Hosting game servers, casual game nights, and good vibes over sweaty try-hard energy.
 
 ---
 
