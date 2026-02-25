@@ -4,7 +4,7 @@
 ![Banner](assets/banner.png)
 -->
 
-A chill gaming Discord community. Hosting game servers, casual game nights, and good vibes over sweaty try-hard energy.
+A chill gaming Discord—community game servers, casual game nights, and good vibes over sweaty try-hard energy.
 
 ---
 
@@ -16,15 +16,15 @@ We're an **18+ social gaming community** focused on relaxed, friendly play. We r
 
 ## What we're building
 
-More community servers, events, and features, all driven by member feedback. We're growing the community and the tools that make it fun.
+More community servers, events, and features—all driven by member feedback. We're growing the community and the tools that make it fun.
 
 ---
 
 ## ☕ Support the community
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21UVTTS)
+[![ko-fi](https://ko-fi.com/img/githubbutton_su.svg)](https://ko-fi.com/Q5Q21UVTTS)
 
-All funds go to the community server hosting, new assets & features, and community event prizes. Nothing goes into our pockets.
+All funds go to the community—server hosting, new assets & features, and community event prizes. Nothing goes into our pockets.
 
 ---
 
@@ -43,5 +43,6 @@ All funds go to the community server hosting, new assets & features, and communi
 | **Website** | [gg-au.com](https://gg-au.com) |
 | **Instagram** | [@goated.geese](https://instagram.com/goated.geese) |
 | **TikTok** | [@goated.geese](https://tiktok.com/@goated.geese) |
+| **YouTube** | [@gg-au](https://www.youtube.com/@gg-au) |
 | **Facebook** | [goated.geese](https://facebook.com/goated.geese) |
 | **Twitch** | [goatedgeeseau](https://twitch.tv/goatedgeeseau) |
