@@ -46,3 +46,4 @@ All funds go to the community—server hosting, new assets & features, and commu
 | **YouTube** | [@gg-au](https://www.youtube.com/@gg-au) |
 | **Facebook** | [goated.geese](https://facebook.com/goated.geese) |
 | **Twitch** | [goatedgeeseau](https://twitch.tv/goatedgeeseau) |
+| **Steam** | [Goated Geese AU](https://steamcommunity.com/groups/gg-au) |
