@@ -22,7 +22,7 @@ More community servers, events, and features—all driven by member feedback. We
 
 ## ☕ Support the community
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_su.svg)](https://ko-fi.com/Q5Q21UVTTS)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21UVTTS)
 
 All funds go to the community—server hosting, new assets & features, and community event prizes. Nothing goes into our pockets.
 
