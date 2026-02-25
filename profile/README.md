@@ -16,7 +16,7 @@ We're an **18+ social gaming community** focused on relaxed, friendly play. We r
 
 ## What we're building
 
-More community servers, events, and features—all driven by member feedback. We're growing the community and the tools that make it fun.
+More community servers, events, and features, all driven by member feedback. We're growing the community and the tools that make it fun.
 
 ---
 
@@ -24,7 +24,7 @@ More community servers, events, and features—all driven by member feedback. We
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21UVTTS)
 
-All funds go to the community—server hosting, new assets & features, and community event prizes. Nothing goes into our pockets.
+All funds go to the community server hosting, new assets & features, and community event prizes. Nothing goes into our pockets.
 
 ---
 
