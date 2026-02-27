@@ -20,6 +20,21 @@ More community servers, events, and features—all driven by member feedback. We
 
 ---
 
+## Bots we're building
+
+| Bot | Status | Link | Description |
+|:----|:------:|:-----|:------------|
+| Manager bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-manager-bot](https://github.com/Goated-Geese/Discord-manager-bot) | Welcome/leave, social feed, birthdays, leveling and more. |
+| TCG bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-TCG-bot](https://github.com/Goated-Geese/Discord-TCG-bot) | TCG (trading card game) features in Discord. |
+| Misc bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-misc-bot](https://github.com/Goated-Geese/Discord-misc-bot) | Warnings, NSFW/URL/file checks, giveaways, gallery, mod actions, ban appeals, free games. |
+| Sorting bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-sorting-bot](https://github.com/Goated-Geese/Discord-sorting-bot) | Linked role sync, cross-server roles, supporter/voter roles. |
+| Verification bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-verification-bot](https://github.com/Goated-Geese/Discord-verification-bot) | Account–Discord linking, honeypot, donations, referrals, alt-checking, logs. |
+| Support bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-support-bot](https://github.com/Goated-Geese/Discord-support-bot) | Tickets, suggestions, polls, applications and more. |
+| Voice bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-voice-bot](https://github.com/Goated-Geese/Discord-voice-bot) | Temp channels, music, VC logs, mass move. |
+| Game bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-game-bot](https://github.com/Goated-Geese/Discord-game-bot) | RPSL, Russian roulette, acromania, werewolf, etc. |
+
+---
+
 ## ☕ Support the community
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q21UVTTS)
