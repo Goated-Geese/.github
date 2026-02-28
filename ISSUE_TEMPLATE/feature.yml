@@ -1,0 +1,121 @@
+name: Feature / Change Request
+description: Structured feature request for AI-driven implementation
+title: "[FEATURE] <Short descriptive title>"
+labels: ["type:feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before submitting
+        - Describe the WHAT and WHY.
+        - Do NOT describe the technical implementation unless required.
+        - Be explicit and concrete.
+        - Avoid vague statements.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem are we solving?
+      placeholder: |
+        Clear description of the problem.
+        Who is affected?
+        What is currently broken or missing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired_outcome
+    attributes:
+      label: Desired Outcome
+      description: What should exist after this is complete?
+      placeholder: |
+        Describe observable results.
+        What will users be able to do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: user_story
+    attributes:
+      label: User Story
+      description: Define in user-centric format
+      placeholder: |
+        As a <type of user>,
+        I want to <perform action>,
+        So that <benefit>.
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: Clear, testable conditions
+      placeholder: |
+        - [ ] Condition 1
+        - [ ] Condition 2
+        - [ ] Condition 3
+    validations:
+      required: true
+
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Security, performance, architectural, or business constraints
+      placeholder: |
+        - Must run in Docker
+        - Must not introduce new external services
+        - Must comply with existing auth system
+
+  - type: textarea
+    id: non_goals
+    attributes:
+      label: Non-Goals
+      description: Explicitly state what this issue should NOT do
+      placeholder: |
+        - No UI redesign
+        - No database refactor
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact Level
+      options:
+        - Low (isolated change)
+        - Medium (multiple modules)
+        - High (architecture or database impact)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected Area
+      options:
+        - Backend
+        - Frontend
+        - Database
+        - DevOps
+        - Security
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Links, screenshots, logs, diagrams (if applicable)
+
+  - type: textarea
+    id: ai_execution_hint
+    attributes:
+      label: AI Execution Hint (Optional)
+      description: If this issue is intended for an AI agent, provide guidance.
+      placeholder: |
+        Suggested starting point:
+        Related files:
+        Dependencies:

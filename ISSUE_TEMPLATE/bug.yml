@@ -1,0 +1,132 @@
+name: Bug Report
+description: Structured bug report for deterministic triage and AI remediation
+title: "[BUG] <Short descriptive title>"
+labels: ["type:bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before submitting
+        - Describe observable behavior only.
+        - Do NOT guess the root cause unless certain.
+        - Include exact reproduction steps.
+        - Attach logs when possible.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One clear sentence describing the issue
+      placeholder: |
+        Brief description of what is broken.
+    validations:
+      required: true
+
+  - type: textarea
+    id: observed_behavior
+    attributes:
+      label: Observed Behavior
+      description: What is actually happening?
+      placeholder: |
+        Exact output, errors, or behavior.
+        Include full error messages.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+      placeholder: |
+        Describe the correct expected result.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: Steps to Reproduce
+      description: Deterministic steps to reproduce the issue
+      placeholder: |
+        1. Go to ...
+        2. Run ...
+        3. Click ...
+        4. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Stack Trace
+      description: Paste relevant logs (sanitized if needed)
+      render: shell
+      placeholder: |
+        Paste stack traces or logs here.
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Runtime and system details
+      placeholder: |
+        OS:
+        Docker version:
+        Node/Python/.NET version:
+        Database version:
+        Browser (if applicable):
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Low (minor issue, workaround exists)
+        - Medium (feature impaired)
+        - High (core functionality broken)
+        - Critical (data loss, security, production outage)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: impact_area
+    attributes:
+      label: Affected Area
+      options:
+        - Backend
+        - Frontend
+        - Database
+        - DevOps
+        - Security
+        - API
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: regression
+    attributes:
+      label: Regression?
+      description: Did this previously work?
+      placeholder: |
+        Yes / No
+        If yes, last known working version:
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Screenshots, links, related issues
+
+  - type: textarea
+    id: ai_execution_context
+    attributes:
+      label: AI Execution Context (Optional)
+      description: Related files, modules, or suspected components
+      placeholder: |
+        Suspected files:
+        Related module:
+        Feature flag:
