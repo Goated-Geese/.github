@@ -36,30 +36,6 @@ body:
       required: true
 
   - type: textarea
-    id: user_story
-    attributes:
-      label: User Story
-      description: Define in user-centric format
-      placeholder: |
-        As a <type of user>,
-        I want to <perform action>,
-        So that <benefit>.
-    validations:
-      required: true
-
-  - type: textarea
-    id: acceptance_criteria
-    attributes:
-      label: Acceptance Criteria
-      description: Clear, testable conditions
-      placeholder: |
-        - [ ] Condition 1
-        - [ ] Condition 2
-        - [ ] Condition 3
-    validations:
-      required: true
-
-  - type: textarea
     id: constraints
     attributes:
       label: Constraints
@@ -68,15 +44,6 @@ body:
         - Must run in Docker
         - Must not introduce new external services
         - Must comply with existing auth system
-
-  - type: textarea
-    id: non_goals
-    attributes:
-      label: Non-Goals
-      description: Explicitly state what this issue should NOT do
-      placeholder: |
-        - No UI redesign
-        - No database refactor
 
   - type: dropdown
     id: impact
@@ -109,13 +76,3 @@ body:
     attributes:
       label: Additional Context
       description: Links, screenshots, logs, diagrams (if applicable)
-
-  - type: textarea
-    id: ai_execution_hint
-    attributes:
-      label: AI Execution Hint (Optional)
-      description: If this issue is intended for an AI agent, provide guidance.
-      placeholder: |
-        Suggested starting point:
-        Related files:
-        Dependencies:
