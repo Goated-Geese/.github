@@ -54,7 +54,6 @@ All funds go to the community—server hosting, new assets & features, and commu
 ## 🔗 Links
 
 | | |
-|:---|:---|
 | **Website** | [gg-au.com](https://gg-au.com) |
 | **Instagram** | [@goated.geese](https://instagram.com/goated.geese) |
 | **TikTok** | [@goated.geese](https://tiktok.com/@goated.geese) |
