@@ -20,9 +20,9 @@ More community servers, events, and features—all driven by member feedback. We
 
 ---
 
-## Bots we're building
+## Projects we're building
 
-| Bot | Status | Link | Description |
+| Item | Status | Link | Description |
 |:----|:------:|:-----|:------------|
 | Manager bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-manager-bot](https://github.com/Goated-Geese/Discord-manager-bot) | Welcome/leave, social feed, birthdays, leveling and more. |
 | TCG bot | ![In development](https://img.shields.io/badge/status-in%20development-yellow) | [Discord-TCG-bot](https://github.com/Goated-Geese/Discord-TCG-bot) | TCG (trading card game) features in Discord. |
